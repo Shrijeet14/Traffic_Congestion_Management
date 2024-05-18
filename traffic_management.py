@@ -23,14 +23,14 @@ os.makedirs(TEMP_FRAMES_DIR, exist_ok=True)
 
 # Configuration Key
 firebaseConfig = {
-  'apiKey': "AIzaSyCFLtp3C57X5WXzMDtUSyftcaaTa7S-CBE",
-  'authDomain': "datathon-4031d.firebaseapp.com",
-  'projectId': "datathon-4031d",
-  'databaseURL':'https://datathon-4031d-default-rtdb.europe-west1.firebasedatabase.app/',
-  'storageBucket': "datathon-4031d.appspot.com",
-  'messagingSenderId': "662523371946",
-  'appId': "1:662523371946:web:d9deb57fc8ed8761238bd3",
-  'measurementId': "G-WES81XPRF3"
+  'apiKey': "XXXXXXXXXXXXXXXXXXXX",
+  'authDomain': "XXXXXXXXXXXX",
+  'projectId': "XXXXXXXXXXXXXXXXXX",
+  'databaseURL':'XXXXXXXXXXXXXXXXXXXX',
+  'storageBucket': "XXXXXXXXX",
+  'messagingSenderId': "XXXXXXXXXXXXXXXXX",
+  'appId': "XXXXXXXXXXXXX",
+  'measurementId': "XXXXXXXXXXXX"
 }
 
 # Firebase Authentication
